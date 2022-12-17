@@ -1,11 +1,11 @@
-### Hi there 👋
+### 안녕하세요 👋
 
 <!--
 **mercieunee/mercieunee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 저는 현재 한세대학교 ICT 융합학과에 재학 중입니다.
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
