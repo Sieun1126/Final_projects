@@ -18,7 +18,7 @@
 - 정보처리기사
 - 
 
-### Education
+## Education
 - 한세대학교 ICT 융합학과 졸업예정
 
 ### [DearWorld]
