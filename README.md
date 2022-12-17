@@ -1,36 +1,25 @@
 
 
-#### 개발자를 꿈꾸는 김시은입니다.
-#### 실패와 도전을 두려워하지 않는 개발자가 되고 싶습니다.
+# 개발자를 꿈꾸는 김시은입니다.
+# 실패와 도전을 두려워하지 않는 개발자가 되고 싶습니다.
 
 좋은 개발자가 되기 위해서는 오직 개발에만 집중하기보다는 여러 직군과 협업을 해야 한다고 생각합니다. 그래서 개발뿐만 아니라 디자인, 기획을 접해보고 도움이 될만한 것들을 계속 배우고 있습니다
 
 
 - GitHub: https://github.com/mercieunee/mercieunee
 
-- blog: https://mercieunee.github.io
-
 
 ## 사용 기술
 
-#### Android
-### Android
-
-- Java
 - `Kotlin`, `Java`
 - `Python`, `C++`
 
-- Kotlin
-### Server
+## 자격증
+- 정보처리기사
+- 
 
-- `Spring-Kotlin`
-
-#### Server
-### Process
-
-- NodeJS
-- Spring-Kotlin
-
+### Education
+- 한세대학교 ICT 융합학과 졸업예정
 
 ### [DearWorld]
 - 기간 : 2021.02 ~ 현재
