@@ -30,11 +30,11 @@
 
 ## Education
 - 한세대학교 ICT 융합학과 졸업예정
-- 
+
 ## Certification
 - 정보처리기사
 
 ## Experience
 - 네이버 부스트캠프 AI Tech 
-- 
+
 
