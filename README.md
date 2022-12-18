@@ -13,7 +13,8 @@
 - `Kotlin`, `Java`
 - `MVP`  `MVVM`  `MVI` `Clean Architecture`
 - `DataBinding`  `LifeCycle` `Coroutine`
-- `glide` `retrofit` `TweenAnimation` `JNI` `Room` `ExoPlayer` `MobileFFmpeg` `Paging Library` 
+- `TweenAnimation` `JNI` `Room` `ExoPlayer` `MobileFFmpeg`
+-  `C`, `C#`
 
 ### Server
 
@@ -27,14 +28,13 @@
 - 이슈관리 - `Github`  `Jira(애자일/칸반)` 
 - 버전관리 - `Git` 
 
+## Education
+- 한세대학교 ICT 융합학과 졸업예정
+- 
 ## Certification
 - 정보처리기사
 
-## Education
-- 한세대학교 ICT 융합학과 졸업예정
-
 ## Experience
-
 - 네이버 부스트캠프 AI Tech 
-
+- 
 
