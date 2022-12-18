@@ -30,7 +30,7 @@
 - 
 
 ## Education
-- 한세대학교 ICT 융합학과 졸업예정 
+- <span style="color:blue">한세대학교 ICT 융합학과 졸업예정</span> 
 
 ## Certification
 - 정보처리기사
