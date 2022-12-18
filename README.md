@@ -28,10 +28,12 @@
 - 이슈관리 - `Github`  `Jira(애자일/칸반)` 
 - 버전관리 - `Git` 
 - 
-<span style="color:blue">
+
 ## Education
+<span style="color:blue">
 - 한세대학교 ICT 융합학과 졸업예정 
 </span>
+
 ## Certification
 - 정보처리기사
 
