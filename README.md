@@ -11,7 +11,7 @@
 ### Android
 
 - `Kotlin`, `Java`
-- `MVP`  `MVVM`  `MVI` `Clean Architecture` <font color='dodgerblue'></font>
+- `MVP`  `MVVM`  `MVI` `Clean Architecture`
 - `DataBinding`  `LifeCycle` `Coroutine` 
 - `TweenAnimation` `JNI` `Room` `ExoPlayer` `MobileFFmpeg`
 -  `C`, `C#`
@@ -27,14 +27,15 @@
 - 커뮤니티 - `Slack`
 - 이슈관리 - `Github`  `Jira(애자일/칸반)` 
 - 버전관리 - `Git` 
-
+- 
+<span style="color:blue">
 ## Education
-- 한세대학교 ICT 융합학과 졸업예정 <font color='dodgerblue'></font>
-
+- 한세대학교 ICT 융합학과 졸업예정 
+</span>
 ## Certification
-- 정보처리기사 <font color='dodgerblue'></font>
+- 정보처리기사
 
 ## Experience
-- 네이버 부스트캠프 AI Tech <font color='dodgerblue'></font>
+- 네이버 부스트캠프 AI Tech 
 
 
